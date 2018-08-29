@@ -1,0 +1,281 @@
+------>taskNames is [readercomponent:assembleRelease]
+------>current module is app
+------>task is readercomponent:assembleRelease
+------>compilemodule  is readercomponent
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+------>apply plugin is com.android.application
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+Incremental java compilation is an incubating feature.
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+------>taskNames is [readercomponent:assembleRelease]
+------>current module is readercomponent
+------>task is readercomponent:assembleRelease
+------>compilemodule  is readercomponent
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+------>apply plugin is com.android.application
+------>comp is com.mrzhang.share:sharecomponent
+------>file.getAbsrotePath() : E:\github\DDComponentForAndroid-master\componentrelease\sharecomponent-release.aar
+------>add dependencies : com.mrzhang.share:sharecomponent-release@aar
+------>taskNames is [readercomponent:assembleRelease]
+------>current module is sharecomponent
+------>task is readercomponent:assembleRelease
+------>compilemodule  is readercomponent
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+------> apply plugin is com.android.library
+:basiclib:preBuild UP-TO-DATE
+:basiclib:preReleaseBuild UP-TO-DATE
+:basiclib:checkReleaseManifest
+:basiclib:preDebugAndroidTestBuild UP-TO-DATE
+:basiclib:preDebugBuild UP-TO-DATE
+:basiclib:preDebugUnitTestBuild UP-TO-DATE
+:basiclib:preReleaseUnitTestBuild UP-TO-DATE
+:basiclib:prepareComAndroidSupportAnimatedVectorDrawable2600Alpha1Library
+:basiclib:prepareComAndroidSupportAppcompatV72600Alpha1Library
+:basiclib:prepareComAndroidSupportSupportCompat2600Alpha1Library
+:basiclib:prepareComAndroidSupportSupportCoreUi2600Alpha1Library
+:basiclib:prepareComAndroidSupportSupportCoreUtils2600Alpha1Library
+:basiclib:prepareComAndroidSupportSupportFragment2600Alpha1Library
+:basiclib:prepareComAndroidSupportSupportMediaCompat2600Alpha1Library
+:basiclib:prepareComAndroidSupportSupportV42600Alpha1Library
+:basiclib:prepareComAndroidSupportSupportVectorDrawable2600Alpha1Library
+:basiclib:prepareReleaseDependencies
+:basiclib:compileReleaseAidl UP-TO-DATE
+:basiclib:compileReleaseNdk UP-TO-DATE
+:basiclib:compileLint UP-TO-DATE
+:basiclib:copyReleaseLint UP-TO-DATE
+:basiclib:compileReleaseRenderscript UP-TO-DATE
+:basiclib:generateReleaseBuildConfig UP-TO-DATE
+:basiclib:generateReleaseResValues UP-TO-DATE
+:basiclib:generateReleaseResources UP-TO-DATE
+:basiclib:mergeReleaseResources UP-TO-DATE
+:basiclib:processReleaseManifest UP-TO-DATE
+:basiclib:processReleaseResources UP-TO-DATE
+:basiclib:generateReleaseSources UP-TO-DATE
+:basiclib:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:basiclib:javaPreCompileRelease
+:basiclib:compileReleaseJavaWithJavac UP-TO-DATE
+:basiclib:extractReleaseAnnotations UP-TO-DATE
+:basiclib:mergeReleaseShaders UP-TO-DATE
+:basiclib:compileReleaseShaders UP-TO-DATE
+:basiclib:generateReleaseAssets UP-TO-DATE
+:basiclib:mergeReleaseAssets UP-TO-DATE
+:basiclib:mergeReleaseProguardFiles UP-TO-DATE
+:basiclib:packageReleaseRenderscript UP-TO-DATE
+:basiclib:packageReleaseResources UP-TO-DATE
+:basiclib:processReleaseJavaRes UP-TO-DATE
+:basiclib:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:basiclib:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:basiclib:mergeReleaseJniLibFolders UP-TO-DATE
+:basiclib:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:basiclib:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:basiclib:bundleRelease UP-TO-DATE
+:basicres:preBuild UP-TO-DATE
+:basicres:preReleaseBuild UP-TO-DATE
+:basicres:checkReleaseManifest
+:basicres:preDebugAndroidTestBuild UP-TO-DATE
+:basicres:preDebugBuild UP-TO-DATE
+:basicres:preDebugUnitTestBuild UP-TO-DATE
+:basicres:preReleaseUnitTestBuild UP-TO-DATE
+:basicres:prepareComAndroidSupportAnimatedVectorDrawable2600Alpha1Library
+:basicres:prepareComAndroidSupportAppcompatV72600Alpha1Library
+:basicres:prepareComAndroidSupportSupportCompat2600Alpha1Library
+:basicres:prepareComAndroidSupportSupportCoreUi2600Alpha1Library
+:basicres:prepareComAndroidSupportSupportCoreUtils2600Alpha1Library
+:basicres:prepareComAndroidSupportSupportFragment2600Alpha1Library
+:basicres:prepareComAndroidSupportSupportMediaCompat2600Alpha1Library
+:basicres:prepareComAndroidSupportSupportV42600Alpha1Library
+:basicres:prepareComAndroidSupportSupportVectorDrawable2600Alpha1Library
+:basicres:prepareReleaseDependencies
+:basicres:compileReleaseAidl UP-TO-DATE
+:basicres:compileReleaseNdk UP-TO-DATE
+:basicres:compileLint UP-TO-DATE
+:basicres:copyReleaseLint UP-TO-DATE
+:basicres:compileReleaseRenderscript UP-TO-DATE
+:basicres:generateReleaseBuildConfig UP-TO-DATE
+:basicres:generateReleaseResValues UP-TO-DATE
+:basicres:generateReleaseResources UP-TO-DATE
+:basicres:mergeReleaseResources UP-TO-DATE
+:basicres:processReleaseManifest UP-TO-DATE
+:basicres:processReleaseResources UP-TO-DATE
+:basicres:generateReleaseSources UP-TO-DATE
+:basicres:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:basicres:javaPreCompileRelease
+:basicres:compileReleaseJavaWithJavac UP-TO-DATE
+:basicres:extractReleaseAnnotations UP-TO-DATE
+:basicres:mergeReleaseShaders UP-TO-DATE
+:basicres:compileReleaseShaders UP-TO-DATE
+:basicres:generateReleaseAssets UP-TO-DATE
+:basicres:mergeReleaseAssets UP-TO-DATE
+:basicres:mergeReleaseProguardFiles UP-TO-DATE
+:basicres:packageReleaseRenderscript UP-TO-DATE
+:basicres:packageReleaseResources UP-TO-DATE
+:basicres:processReleaseJavaRes UP-TO-DATE
+:basicres:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:basicres:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:basicres:mergeReleaseJniLibFolders UP-TO-DATE
+:basicres:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:basicres:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:basicres:bundleRelease UP-TO-DATE
+:componentlib:preBuild UP-TO-DATE
+:componentlib:preReleaseBuild UP-TO-DATE
+:componentlib:checkReleaseManifest
+:componentlib:preDebugAndroidTestBuild UP-TO-DATE
+:componentlib:preDebugBuild UP-TO-DATE
+:componentlib:preDebugUnitTestBuild UP-TO-DATE
+:componentlib:preReleaseUnitTestBuild UP-TO-DATE
+:componentlib:prepareComAndroidSupportAnimatedVectorDrawable2600Alpha1Library
+:componentlib:prepareComAndroidSupportAppcompatV72600Alpha1Library
+:componentlib:prepareComAndroidSupportSupportCompat2600Alpha1Library
+:componentlib:prepareComAndroidSupportSupportCoreUi2600Alpha1Library
+:componentlib:prepareComAndroidSupportSupportCoreUtils2600Alpha1Library
+:componentlib:prepareComAndroidSupportSupportFragment2600Alpha1Library
+:componentlib:prepareComAndroidSupportSupportMediaCompat2600Alpha1Library
+:componentlib:prepareComAndroidSupportSupportV42600Alpha1Library
+:componentlib:prepareComAndroidSupportSupportVectorDrawable2600Alpha1Library
+:componentlib:prepareReleaseDependencies
+:componentlib:compileReleaseAidl UP-TO-DATE
+:componentlib:compileReleaseNdk UP-TO-DATE
+:componentlib:compileLint UP-TO-DATE
+:componentlib:copyReleaseLint UP-TO-DATE
+:componentlib:compileReleaseRenderscript UP-TO-DATE
+:componentlib:generateReleaseBuildConfig UP-TO-DATE
+:componentlib:generateReleaseResValues UP-TO-DATE
+:componentlib:generateReleaseResources UP-TO-DATE
+:componentlib:mergeReleaseResources UP-TO-DATE
+:componentlib:processReleaseManifest UP-TO-DATE
+:componentlib:processReleaseResources UP-TO-DATE
+:componentlib:generateReleaseSources UP-TO-DATE
+:componentlib:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:componentlib:javaPreCompileRelease
+:componentlib:compileReleaseJavaWithJavac UP-TO-DATE
+:componentlib:extractReleaseAnnotations UP-TO-DATE
+:componentlib:mergeReleaseShaders UP-TO-DATE
+:componentlib:compileReleaseShaders UP-TO-DATE
+:componentlib:generateReleaseAssets UP-TO-DATE
+:componentlib:mergeReleaseAssets UP-TO-DATE
+:componentlib:mergeReleaseProguardFiles UP-TO-DATE
+:componentlib:packageReleaseRenderscript UP-TO-DATE
+:componentlib:packageReleaseResources UP-TO-DATE
+:componentlib:processReleaseJavaRes UP-TO-DATE
+:componentlib:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:componentlib:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:componentlib:mergeReleaseJniLibFolders UP-TO-DATE
+:componentlib:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:componentlib:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:componentlib:bundleRelease UP-TO-DATE
+:componentservice:preBuild UP-TO-DATE
+:componentservice:preReleaseBuild UP-TO-DATE
+:componentservice:checkReleaseManifest
+:componentservice:preDebugAndroidTestBuild UP-TO-DATE
+:componentservice:preDebugBuild UP-TO-DATE
+:componentservice:preDebugUnitTestBuild UP-TO-DATE
+:componentservice:preReleaseUnitTestBuild UP-TO-DATE
+:componentservice:prepareComAndroidSupportAnimatedVectorDrawable2600Alpha1Library
+:componentservice:prepareComAndroidSupportAppcompatV72600Alpha1Library
+:componentservice:prepareComAndroidSupportSupportCompat2600Alpha1Library
+:componentservice:prepareComAndroidSupportSupportCoreUi2600Alpha1Library
+:componentservice:prepareComAndroidSupportSupportCoreUtils2600Alpha1Library
+:componentservice:prepareComAndroidSupportSupportFragment2600Alpha1Library
+:componentservice:prepareComAndroidSupportSupportMediaCompat2600Alpha1Library
+:componentservice:prepareComAndroidSupportSupportV42600Alpha1Library
+:componentservice:prepareComAndroidSupportSupportVectorDrawable2600Alpha1Library
+:componentservice:prepareReleaseDependencies
+:componentservice:compileReleaseAidl UP-TO-DATE
+:componentservice:compileReleaseNdk UP-TO-DATE
+:componentservice:compileLint UP-TO-DATE
+:componentservice:copyReleaseLint UP-TO-DATE
+:componentservice:compileReleaseRenderscript UP-TO-DATE
+:componentservice:generateReleaseBuildConfig UP-TO-DATE
+:componentservice:generateReleaseResValues UP-TO-DATE
+:componentservice:generateReleaseResources UP-TO-DATE
+:componentservice:mergeReleaseResources UP-TO-DATE
+:componentservice:processReleaseManifest UP-TO-DATE
+:componentservice:processReleaseResources UP-TO-DATE
+:componentservice:generateReleaseSources UP-TO-DATE
+:componentservice:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:componentservice:javaPreCompileRelease
+:componentservice:compileReleaseJavaWithJavac UP-TO-DATE
+:componentservice:extractReleaseAnnotations UP-TO-DATE
+:componentservice:mergeReleaseShaders UP-TO-DATE
+:componentservice:compileReleaseShaders UP-TO-DATE
+:componentservice:generateReleaseAssets UP-TO-DATE
+:componentservice:mergeReleaseAssets UP-TO-DATE
+:componentservice:mergeReleaseProguardFiles UP-TO-DATE
+:componentservice:packageReleaseRenderscript UP-TO-DATE
+:componentservice:packageReleaseResources UP-TO-DATE
+:componentservice:processReleaseJavaRes UP-TO-DATE
+:componentservice:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:componentservice:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:componentservice:mergeReleaseJniLibFolders UP-TO-DATE
+:componentservice:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:componentservice:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:componentservice:bundleRelease UP-TO-DATE
+:readercomponent:preBuild UP-TO-DATE
+:readercomponent:preReleaseBuild UP-TO-DATE
+:readercomponent:checkReleaseManifest
+:readercomponent:preDebugBuild UP-TO-DATE
+:readercomponent:prepareComAndroidSupportAnimatedVectorDrawable2600Alpha1Library
+:readercomponent:prepareComAndroidSupportAppcompatV72600Alpha1Library
+:readercomponent:prepareComAndroidSupportSupportCompat2600Alpha1Library
+:readercomponent:prepareComAndroidSupportSupportCoreUi2600Alpha1Library
+:readercomponent:prepareComAndroidSupportSupportCoreUtils2600Alpha1Library
+:readercomponent:prepareComAndroidSupportSupportFragment2600Alpha1Library
+:readercomponent:prepareComAndroidSupportSupportMediaCompat2600Alpha1Library
+:readercomponent:prepareComAndroidSupportSupportV42600Alpha1Library
+:readercomponent:prepareComAndroidSupportSupportVectorDrawable2600Alpha1Library
+:readercomponent:prepareComMrzhangShareSharecomponentReleaseLibrary
+:readercomponent:prepareReleaseDependencies
+:readercomponent:compileReleaseAidl UP-TO-DATE
+:readercomponent:compileReleaseRenderscript UP-TO-DATE
+:readercomponent:generateReleaseBuildConfig UP-TO-DATE
+:readercomponent:generateReleaseResValues UP-TO-DATE
+:readercomponent:generateReleaseResources UP-TO-DATE
+:readercomponent:mergeReleaseResources UP-TO-DATE
+:readercomponent:processReleaseManifest UP-TO-DATE
+:readercomponent:processReleaseResources UP-TO-DATE
+:readercomponent:generateReleaseSources UP-TO-DATE
+:readercomponent:incrementalReleaseJavaCompilationSafeguard UP-TO-DATE
+:readercomponent:javaPreCompileRelease
+:readercomponent:compileReleaseJavaWithJavac UP-TO-DATE
+:readercomponent:compileReleaseNdk UP-TO-DATE
+:readercomponent:compileReleaseSources UP-TO-DATE
+:readercomponent:lintVitalRelease
+:readercomponent:mergeReleaseShaders UP-TO-DATE
+:readercomponent:compileReleaseShaders UP-TO-DATE
+:readercomponent:generateReleaseAssets UP-TO-DATE
+:readercomponent:mergeReleaseAssets UP-TO-DATE
+:readercomponent:transformClassesWithComponentCodeForRelease UP-TO-DATE
+:readercomponent:transformClassesWithDexForRelease UP-TO-DATE
+:readercomponent:mergeReleaseJniLibFolders UP-TO-DATE
+:readercomponent:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:readercomponent:processReleaseJavaRes UP-TO-DATE
+:readercomponent:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:readercomponent:packageRelease UP-TO-DATE
+:readercomponent:assembleRelease
+
+BUILD SUCCESSFUL
+
+Total time: 2.398 secs
